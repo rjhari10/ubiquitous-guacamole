@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\rjhari10\ubiquitous-guacamole\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\richa\source\repos\rjhari10\ubiquitous-guacamole\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\richa\source\repos\rjhari10\ubiquitous-guacamole\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\richa\source\repos\rjhari10\ubiquitous-guacamole\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\rjhari10\ubiquitous-guacamole\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\rjhari10\ubiquitous-guacamole\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\richa\source\repos\rjhari10\ubiquitous-guacamole\HelloWorld\obj\Debug\HelloWorld.pdb
